@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola Mundo! Este es mi perfil de GitHub 👋
+
+Soy una veterinaria frustrada que quiere trabajar para vivir y no vivir para trabajar, por eso estoy aquí.
+
+
+
 
 <!--
 **Raquelfefer/Raquelfefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
